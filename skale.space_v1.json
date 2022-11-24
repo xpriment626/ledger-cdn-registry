@@ -1,0 +1,106 @@
+{
+    "version": "1",
+    "name": "Capital DEX",
+    "domain": "skale.space",
+    "token": "SKL",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x801ba194f775a6cb0b5759fddce6a35e401787bf"
+        },
+        {
+            "address": "0x3d30a62aceeb6720312c3318d28620194e749e38"
+        },
+        {
+            "address": "0xc04a10fd5e6513242558f47331568abd6185a310"
+        },
+        {
+            "address": "0x9257b149889a76c7a86bffa5820f06fabca3a9a1"
+        },
+        {
+            "address": "0x06dd71dab27c1a3e0b172d53735f00bf1a66eb79"
+        },
+        {
+            "address": "0x54a663e39621d2e644f6b9b6966cdf66db973ab3"
+        },
+        {
+            "address": "0x2a42ccca55fde8a9ca2d7f3c66fcdde99b4bab90"
+        },
+        {
+            "address": "0x1a77d7617f919e20f8e0fa98a292deaf1072b77e"
+        },
+        {
+            "address": "0x921a97c815e4e7508d1ad639b56a21e942a3a152"
+        },
+        {
+            "address": "0xec4ea4802cb323645b87441aeb5622c800d72ccd"
+        },
+        {
+            "address": "0xd489665414d051336ce2f2c6e4184de0409e40ba"
+        },
+        {
+            "address": "0x39c289a3ef68127c272de21f3db67b0cdecdfee1"
+        },
+        {
+            "address": "0xbca0ecdd44203de76af389d5f9931015529b7f1e"
+        },
+        {
+            "address": "0x0fca003f483313869ee54e86b281348980b4cbf6"
+        },
+        {
+            "address": "0x836df73065cb143bddf3106e46783d43c12c6012"
+        },
+        {
+            "address": "0xfcc84f7b6d88d671c6a1841549c0b2e70110884f"
+        },
+        {
+            "address": "0x8b32f750966273cb6d804c02360f3e2743e2b511"
+        },
+        {
+            "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+        },
+        {
+            "address": "0x32f50e2a898f14687f2a714d8b2d405317eb4641"
+        },
+        {
+            "address": "0x1a7bb775611b58375a3177dcf3d8e4f7f6d2ed4b"
+        },
+        {
+            "address": "0x05946b1b80ce4de235350d8955c5c751860d5399"
+        },
+        {
+            "address": "0x4ee5f270572285776814e32952446e9b7ee15c86"
+        },
+        {
+            "address": "0x840c8122433a5aa7ad60c1bcdc36ab9dccf761a5"
+        },
+        {
+            "address": "0xbaec960713a6c41d391c93ae42128d72c916965f"
+        },
+        {
+            "address": "0xbc896522b1649dc2e43bc093d08665822529d087"
+        },
+        {
+            "address": "0x8629703a9903515818c2feb45a6f6fa5df8da404"
+        },
+        {
+            "address": "0x6ef406953bac772c2146389ed37846ba3b6086d1"
+        },
+        {
+            "address": "0x588801ca36558310d91234afc2511502282b1621"
+        },
+        {
+            "address": "0x49f583d263e4ef938b9e09772d3394c71605df94"
+        },
+        {
+            "address": "0x8fb1a35bb6fb9c47fb5065be5062cb8dc1687669"
+        },
+        {
+            "address": "0x7343d31eb99fd31424bcca9f0a7eafbc1f515f2d"
+        },
+        {
+            "address": "0x3c02fdee8e05b6dc4d44a6555b3ff5762d03871a"
+        }
+    ]
+}

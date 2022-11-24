@@ -1,0 +1,37 @@
+{
+    "version": "1",
+    "name": "Unicly",
+    "domain": "unic.ly",
+    "token": "UNIC",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5"
+        },
+        {
+            "address": "0x8696bde5cc30545b3b049f3529abbfb2b1e0c007"
+        },
+        {
+            "address": "0x4a25e4df835b605a5848d2db450fa600d96ee818"
+        },
+        {
+            "address": "0xa62fb0c2fb3c7b27797dc04e1fea06c0a2db919a"
+        },
+        {
+            "address": "0x9e5b1f637a03976f2c472265806aa1bcc969ca85"
+        },
+        {
+            "address": "0xf33079d70dbb83b2886d726dbe761671f84bc889"
+        },
+        {
+            "address": "0x8bf26a3bffd9072ce12c7bfd5e3b1fce33768d2d"
+        },
+        {
+            "address": "0xbacc776b231c571a7e6ab7bc2c8a099e07153377"
+        },
+        {
+            "address": "0xe6e90bc9f3b95cdb69f48c7bfdd0ede1386b135a"
+        }
+    ]
+}

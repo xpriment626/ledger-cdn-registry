@@ -1,0 +1,19 @@
+{
+    "version": "1",
+    "name": "HEX",
+    "domain": "hex.com",
+    "token": "HEX",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x9a6a414d6f3497c05e3b1de90520765fa1e07c03;"
+        },
+        {
+            "address": "0xdec9f2793e3c17cd26eefb21c4762fa5128e0399;"
+        },
+        {
+            "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+        }
+    ]
+}

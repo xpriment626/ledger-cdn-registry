@@ -1,0 +1,25 @@
+{
+    "version": "1",
+    "name": "EverSwap",
+    "domain": "everrise.com",
+    "token": "RISE",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0xc17c30e98541188614df99239cabd40280810ca3"
+        },
+        {
+            "address": "0x23cd2e6b283754fd2340a75732f9ddbb5d11807e"
+        },
+        {
+            "address": "0xdba7b24257fc6e397cb7368b4bc922e944072f1b"
+        },
+        {
+            "address": "0xbbd7b847c6d0d0b5691518a363194d71426475f1"
+        },
+        {
+            "address": "0x1c57a5ee9c5a90c9a5e31b5265175e0642b943b1"
+        }
+    ]
+}

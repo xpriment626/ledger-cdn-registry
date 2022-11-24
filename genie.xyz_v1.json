@@ -1,0 +1,13 @@
+{
+    "version": "1",
+    "name": "Genie",
+    "domain": "genie.xyz",
+    "token": "",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x0a267cf51ef038fc00e71801f5a524aec06e4f07"
+        }
+    ]
+}

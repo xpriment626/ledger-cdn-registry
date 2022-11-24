@@ -1,0 +1,112 @@
+{
+    "version": "1",
+    "name": "Convex Finance",
+    "domain": "convexfinance.com",
+    "token": "CVX",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0xf403c135812408bfbe8713b5a23a04b3d48aae31"
+        },
+        {
+            "address": "0x3ce6408f923326f81a7d7929952947748180f1e6"
+        },
+        {
+            "address": "0x989aeb4d175e16225e39e87d0d97a3360524ad80"
+        },
+        {
+            "address": "0x947b7742c403f20e5faccdac5e092c943e7d0277"
+        },
+        {
+            "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+        },
+        {
+            "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7"
+        },
+        {
+            "address": "0x8014595f2ab54cd7c604b00e9fb932176fdc86ae"
+        },
+        {
+            "address": "0xedccb35798fae4925718a43cc608ae136208aa8d"
+        },
+        {
+            "address": "0x3c995e43e6ddd551e226f4c5544c77bfed147ab9"
+        },
+        {
+            "address": "0x877288c4e6eba4f635ba7428706447353b47de75"
+        },
+        {
+            "address": "0xcf50b810e57ac33b91dcf525c6ddd9881b139332"
+        },
+        {
+            "address": "0x3fe65692bfcd0e6cf84cb1e7d24108e434a7587e"
+        },
+        {
+            "address": "0xd1f9b3de42420a295c33c07aa5c9e04edc6a4447"
+        },
+        {
+            "address": "0x5f47010f230ce1568bea53a06ebaf528d05c5c1b"
+        },
+        {
+            "address": "0xd20904e5916113d11414f083229e9c8c6f91d1e1"
+        },
+        {
+            "address": "0x25e12482a25cf36ec70fda2a09c1ed077fc21616"
+        },
+        {
+            "address": "0x5f465e9fcffc217c5849906216581a657cd60605"
+        },
+        {
+            "address": "0xe98984ad858075813ada4261af47e68a64e28fcc"
+        },
+        {
+            "address": "0xa1bc2cf69d474b39b91665e24e7f2606ed142991"
+        },
+        {
+            "address": "0x2e088a0a19dda628b4304301d1ea70b114e4accd"
+        },
+        {
+            "address": "0x92cf9e5e4d1dfbf7da0d2bb3e884a68416a65070"
+        },
+        {
+            "address": "0xdd49a93fdcae579ae50b4b9923325e9e335ec82b"
+        },
+        {
+            "address": "0x05767d9ef41dc40689678ffca0608878fb3de906"
+        },
+        {
+            "address": "0x33f6ddaea2a8a54062e021873bcaee006cdf4007"
+        },
+        {
+            "address": "0x1389388d01708118b497f59521f6943be2541bb7"
+        },
+        {
+            "address": "0xd18140b4b819b895a3dba5442f959fa44994af50"
+        },
+        {
+            "address": "0x72a19342e8f1838460ebfccef09f6585e32db86e"
+        },
+        {
+            "address": "0xb5bbc863bafe5006c68613b89130812a7b586a4e"
+        },
+        {
+            "address": "0xdecc7d761496d30f30b92bdf764fb8803c79360d"
+        },
+        {
+            "address": "0x9b622f2c40b80ef5efb14c2b2239511ffbfab702"
+        },
+        {
+            "address": "0xa2cf21b157b2f203e37b616b619f438b5aa86ee5"
+        },
+        {
+            "address": "0x59cfcd384746ec3035299d90782be065e466800b"
+        },
+        {
+            "address": "0xfeef77d3f69374f66429c91d732a244f074bdf74"
+        },
+        {
+            "address": "0x8f55d7c21bdff1a51afaa60f3de7590222a3181e"
+        }
+    ]
+}

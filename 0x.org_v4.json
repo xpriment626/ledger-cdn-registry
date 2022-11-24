@@ -1,0 +1,32 @@
+{
+    "version": "4",
+    "name": "Matcha",
+    "domain": "0x.org",
+    "token": "ZRX",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        },
+        {
+            "address": "0x22f9dcf4647084d6c31b2765f6910cd85c178c18"
+        },
+        {
+            "address": "0x618f9c67ce7bf1a50afa1e7e0238422601b0ff6e"
+        },
+        {
+            "address": "0x407b4128e9ecad8769b2332312a9f655cb9f5f3a"
+        },
+        {
+            "address": "0x39dce47a67ad34344eab877eae3ef1fa2a1d50bb"
+        },
+        {
+            "address": "0x0bb1810061c2f5b2088054ee184e6c79e1591101"
+        },
+        {
+            "address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+        }
+    ]
+}
+

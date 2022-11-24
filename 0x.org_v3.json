@@ -1,0 +1,59 @@
+{
+    "version": "3",
+    "name": "Matcha",
+    "domain": "0x.org",
+    "token": "ZRX",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x61935cbdd02287b511119ddb11aeb42f1593b7ef"
+        },
+        {
+            "address": "0x95e6f48254609a6ee006f7d493c8e5fb97094cef"
+        },
+        {
+            "address": "0xefc70a1b18c432bdc64b596838b4d138f6bc6cad"
+        },
+        {
+            "address": "0x6958f5e95332d93d21af0d7b9ca85b8212fee0a5"
+        },
+        {
+            "address": "0x7d3455421bbc5ed534a83c88fd80387dc8271392"
+        },
+        {
+            "address": "0x45797531b873fd5e519477a070a955764c1a5b07"
+        },
+        {
+            "address": "0x38a795580d0f687e399913a00ddef6a17612c722"
+        },
+        {
+            "address": "0xef701d5389ae74503d633396c4d654eabedc9d78"
+        },
+        {
+            "address": "0x3517b88c19508c08650616019062b898ab65ed29"
+        },
+        {
+            "address": "0x7eefbd48fd63d441ec7435d024ec7c5131019add"
+        },
+        {
+            "address": "0x161793cdca4ff9e766a706c2c49c36ac1340bbcd"
+        },
+        {
+            "address": "0xa26e80e7dea86279c6d778d702cc413e6cffa777"
+        },
+        {
+            "address": "0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf"
+        },
+        {
+            "address": "0xd4690a51044db77d91d7aa8f7a3a5ad5da331af0"
+        },
+        {
+            "address": "0x0bb1810061c2f5b2088054ee184e6c79e1591101"
+        },
+        {
+            "address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+        }
+    ]
+}
+

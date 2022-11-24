@@ -1,0 +1,13 @@
+{
+    "version": "1",
+    "name": "NFTify",
+    "domain": "nftify.network",
+    "token": "$N1",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0xacbd826394189cf2623c6df98a18b41fc8ffc16d"
+        }
+    ]
+}

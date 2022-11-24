@@ -1,0 +1,16 @@
+{
+    "version": "1",
+    "name": "NAME",
+    "domain": "vulcanforged.com",
+    "token": "PYR",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x57556d10e6e9de56d72b9b322d433b9ed06741d0"
+        },
+        {
+            "address": "0x430ef9263e76dae63c84292c3409d61c598e9682"
+        }
+    ]
+}

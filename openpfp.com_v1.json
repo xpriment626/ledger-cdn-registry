@@ -1,0 +1,49 @@
+{
+    "version": "1",
+    "name": "openPFP",
+    "domain": "openpfp.com",
+    "token": "",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0xecd4cc2facc4fadd5e59190b6c5b512f1dec496e"
+        },
+        {
+            "address": "0x3aedee6465f5c7cdaea38a3b8175362c422dace0"
+        },
+        {
+            "address": "0xb2a146aa61a9302b4b0a39a397f00bef2502de59"
+        },
+        {
+            "address": "0xcc6eb2906fe3ef5edfbc0cb92fadf1f56267bf31"
+        },
+        {
+            "address": "0xeb0ec7ee5b2b12d381741eded7e4eea46b745c36"
+        },
+        {
+            "address": "0x284399c01fb49f2a85aa625ab4f675f2b8c7c017"
+        },
+        {
+            "address": "0x2f060ce2b67c0e8900c51a9f0894c6fc6d069ef9"
+        },
+        {
+            "address": "0x3b11562dc5edbf3889157e71c7ae6754d7adea79"
+        },
+        {
+            "address": "0xe8ca8f28ebc3082fa668ab4d59efad654b0041d1"
+        },
+        {
+            "address": "0x00cce2ec610d6613ce6886260ca3cd8abf971133"
+        },
+        {
+            "address": "0x18972e4a780eb2906cc9a9c6073547812da13bd9"
+        },
+        {
+            "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        },
+        {
+            "address": "0x4e1d26bfef49938673227a80ecc732bead86735b"
+        }
+    ]
+}

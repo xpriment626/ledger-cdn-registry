@@ -1,0 +1,16 @@
+{
+    "version": "1",
+    "name": "Transit Swap",
+    "domain": "transit.finance",
+    "token": "",
+    "blockchain": "Ethereum",
+    "contracts":
+    [
+        {
+            "address": "0x9865eebdd1ce65f45b6247aeed2fa2252eca7a08"
+        },
+        {
+            "address": "0xb45a2dda996c32e93b8c47098e90ed0e7ab18e39"
+        }
+    ]
+}
